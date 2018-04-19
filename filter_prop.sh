@@ -17,7 +17,15 @@ for d in */; do
                 continue
             fi
             # ignore ro.boot.* other than whitelisted exceptions not varying based on boot time, etc.
-            if [[ "$line" = "[ro.boot."* && "$line" != "[ro.boot.vbmeta."* ]]; then
+            if [[ "$line" = "[ro.boot."* && \
+                    "$line" != "[ro.boot.avb_version]"* && \
+                    "$line" != "[ro.boot.baseband]"* && \
+                    "$line" != "[ro.boot.bootloader]"* && \
+                    "$line" != "[ro.boot.flash.locked]"* && \
+                    "$line" != "[ro.boot.hardware]"* && \
+                    "$line" != "[ro.boot.vbmeta."* && \
+                    "$line" != "[ro.boot.verifiedbootstate]"* && \
+                    "$line" != "[ro.boot.veritymode]"* ]]; then
                 continue
             fi
             echo "$line" >> "$d/filtered.prop"
