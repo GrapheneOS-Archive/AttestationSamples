@@ -12,7 +12,7 @@ The challenge string is set to `sample` (UTF-8 encoded) rather than the usual
 random challenge. These are collected with the [Auditor
 app](https://github.com/AndroidHardening/Auditor) so the app id in the
 certificate is app.attestation.auditor and the fingerprint is for the release
-signing key. Older samples use a legacy app id.
+signing key. Older samples use a legacy app id and signing key.
 
 The collection of data published here is public domain / CC0 licensed and is
 crowdsourced.
