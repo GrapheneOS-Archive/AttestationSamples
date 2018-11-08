@@ -16,6 +16,10 @@ for d in */; do
             if [[ "$line" = "[ro.ap_serial]"* || "$line" = "[ro.em.did]"* ]]; then
                 continue
             fi
+            # ignore personally identifying information inappropriately leaked by Xiaomi devices
+            if [[ "$line" = "[ro.ril.miui.imei"* || "$line" = "[ro.ril.oem.psno]"* || "$line" = "[ro.ril.oem.sno]"* ]]; then
+                continue
+            fi
             # ignore ro.boot.* other than whitelisted exceptions not varying based on boot time, etc.
             if [[ "$line" = "[ro.boot."* && \
                     "$line" != "[ro.boot.avb_version]"* && \
