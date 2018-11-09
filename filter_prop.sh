@@ -17,7 +17,7 @@ for d in */; do
                 continue
             fi
             # ignore personally identifying information inappropriately leaked by Xiaomi devices
-            if [[ "$line" = "[ro.ril.miui.imei"* || "$line" = "[ro.ril.oem.psno]"* || "$line" = "[ro.ril.oem.sno]"* ]]; then
+            if [[ "$line" = "[ro.ril.miui.imei"* || "$line" = "[ro.ril.oem.imei"* || "$line" = "[ro.ril.oem.psno]"* || "$line" = "[ro.ril.oem.sno]"* ]]; then
                 continue
             fi
             # ignore ro.boot.* other than whitelisted exceptions not varying based on boot time, etc.
