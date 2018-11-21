@@ -4,6 +4,7 @@
 [ro.baseband]: [sdm]
 [ro.board.platform]: [sdm845]
 [ro.boot.baseband]: [sdm]
+[ro.boot.bootdevice]: [1d84000.ufshc]
 [ro.boot.bootloader]: [N960USQS1ARH6]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]

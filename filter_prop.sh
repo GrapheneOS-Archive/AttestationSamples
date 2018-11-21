@@ -24,9 +24,12 @@ for d in */; do
             if [[ "$line" = "[ro.boot."* && \
                     "$line" != "[ro.boot.avb_version]"* && \
                     "$line" != "[ro.boot.baseband]"* && \
+                    "$line" != "[ro.boot.bootdevice]"* && \
                     "$line" != "[ro.boot.bootloader]"* && \
                     "$line" != "[ro.boot.flash.locked]"* && \
                     "$line" != "[ro.boot.hardware]"* && \
+                    "$line" != "[ro.boot.hardware.platform]"* && \
+                    "$line" != "[ro.boot.keymaster]"* && \
                     "$line" != "[ro.boot.vbmeta."* && \
                     "$line" != "[ro.boot.verifiedbootstate]"* && \
                     "$line" != "[ro.boot.veritymode]"* ]]; then
