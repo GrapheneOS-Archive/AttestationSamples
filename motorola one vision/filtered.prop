@@ -10,6 +10,7 @@
 [ro.boot.bootloader]: [0xBA09]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos9610]
+[ro.boot.revision]: [PVT]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [d3eb175bc4330aec5802a6482f4afe8feb9a11076f4ee61036ab799088d49bb9]

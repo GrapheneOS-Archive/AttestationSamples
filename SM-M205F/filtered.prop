@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [M205FDDU1BSF1]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos7885]
+[ro.boot.revision]: [5]
 [ro.boot.verifiedbootstate]: [green]
 [ro.bootimage.build.date]: [Mon Jun 3 15:40:46 KST 2019]
 [ro.bootimage.build.date.utc]: [1559544046]

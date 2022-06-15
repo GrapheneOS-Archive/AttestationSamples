@@ -12,6 +12,7 @@
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [walleye]
 [ro.boot.keymaster]: [1]
+[ro.boot.revision]: [MP1]
 [ro.boot.vbmeta.avb_version]: [1.0]
 [ro.boot.vbmeta.device]: [/dev/sda39]
 [ro.boot.vbmeta.device_state]: [locked]

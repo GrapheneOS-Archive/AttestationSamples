@@ -9,6 +9,7 @@
 [ro.boot.bootloader]: [G9600ZHU5CSG8]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [14]
 [ro.boot.verifiedbootstate]: [green]
 [ro.bootimage.build.date]: [Thu Jul 18 10:52:06 KST 2019]
 [ro.bootimage.build.date.utc]: [1563414726]

@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [G975FXXU2ASF3]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos9820]
+[ro.boot.revision]: [26]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [5ee2d2a8c0e0eb59480408955b69c474ad7c7f0cc8e3fb7c9d1b35c08f5b1539]

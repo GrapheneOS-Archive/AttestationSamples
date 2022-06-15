@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [S367VLUDU4BSG3]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos7885]
+[ro.boot.revision]: [5]
 [ro.boot.verifiedbootstate]: [green]
 [ro.bootimage.build.date]: [Thu Jul 4 22:07:06 KST 2019]
 [ro.bootimage.build.date.utc]: [1562245626]

@@ -24,15 +24,22 @@ for d in */; do
             if [[ "$line" = "[ro.boot."* && \
                     "$line" != "[ro.boot.avb_version]"* && \
                     "$line" != "[ro.boot.baseband]"* && \
+                    "$line" != "[ro.boot.boot_devices]"* && \
                     "$line" != "[ro.boot.bootdevice]"* && \
                     "$line" != "[ro.boot.bootloader]"* && \
+                    "$line" != "[ro.boot.dynamic_partitions]"* && \
                     "$line" != "[ro.boot.flash.locked]"* && \
                     "$line" != "[ro.boot.hardware]"* && \
                     "$line" != "[ro.boot.hardware.platform]"* && \
+                    "$line" != "[ro.boot.hw.soc.rev]"* && \
+                    "$line" != "[ro.boot.product.hardware.sku]"* && \
+                    "$line" != "[ro.boot.revision]"* && \
+                    "$line" != "[ro.boot.secure_boot]"* && \
                     "$line" != "[ro.boot.keymaster]"* && \
                     "$line" != "[ro.boot.vbmeta."* && \
                     "$line" != "[ro.boot.verifiedbootstate]"* && \
-                    "$line" != "[ro.boot.veritymode]"* ]]; then
+                    "$line" != "[ro.boot.veritymode]"* && \
+                    "$line" != "[ro.boot.veritymode.managed]"* ]]; then
                 continue
             fi
             echo "$line" >> "$d/filtered.prop"

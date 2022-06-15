@@ -11,6 +11,7 @@
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
 [ro.boot.keymaster]: [1]
+[ro.boot.revision]: [10]
 [ro.boot.vbmeta.avb_version]: [1.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [06dcf0ebe9a1d0188f5cb6aaabc79d5e9a5b1612dee193d3b7a81a40427b53ad]

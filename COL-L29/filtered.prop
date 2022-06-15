@@ -12,6 +12,7 @@
 [ro.boot.avb_version]: [0.0]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [kirin970]
+[ro.boot.product.hardware.sku]: [COL-L29]
 [ro.boot.vbmeta.avb_version]: [0.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [2fd10c8b3ea6cc3e2bf7365b0e08f0089b9302efb405e2cd9c6d28f3752e3909]

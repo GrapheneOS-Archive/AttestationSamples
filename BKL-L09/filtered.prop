@@ -12,6 +12,7 @@
 [ro.boot.avb_version]: [0.0]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [kirin970]
+[ro.boot.product.hardware.sku]: [BKL-L09]
 [ro.boot.vbmeta.avb_version]: [0.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [9d09624f32c4765d6fa70aac37ac1268cafc951478b2054986fc3d49475c5f9c]

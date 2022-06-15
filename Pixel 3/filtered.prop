@@ -14,6 +14,8 @@
 [ro.boot.hardware]: [blueline]
 [ro.boot.hardware.platform]: [sdm845]
 [ro.boot.keymaster]: [1]
+[ro.boot.product.hardware.sku]: [G013A]
+[ro.boot.revision]: [MP1.0]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [dffdb89defac0c8efc9d35873c9b79f0135eba5ac68bf03251ef64a105808d5a]

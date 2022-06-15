@@ -12,6 +12,7 @@
 [ro.boot.avb_version]: [0.0]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [kirin710]
+[ro.boot.product.hardware.sku]: [JKM-LX3]
 [ro.boot.vbmeta.avb_version]: [0.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [6b339f5fbb96711782a9b4371ffb24c987e9798432b538c3b24f5641b1dadd50]

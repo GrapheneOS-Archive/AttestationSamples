@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [G960WVLU3ARJ5]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [14]
 [ro.boot.verifiedbootstate]: [green]
 [ro.boot_recovery]: [0]
 [ro.bootimage.build.date]: [Tue Oct 16 15:20:09 KST 2018]

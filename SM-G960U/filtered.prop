@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [G960USQU1ARBG]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [14]
 [ro.boot.verifiedbootstate]: [green]
 [ro.boot_recovery]: [0]
 [ro.bootimage.build.date]: [Sun Feb 25 18:40:41 KST 2018]

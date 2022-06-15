@@ -13,6 +13,7 @@
 [ro.boot.avb_version]: [0.0]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [kirin970]
+[ro.boot.product.hardware.sku]: [ALP-L29]
 [ro.boot.vbmeta.avb_version]: [0.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [07ea067868231cda9afc23e2fa7a706633d9c0fc1b8df087f93feea0b7191f33]

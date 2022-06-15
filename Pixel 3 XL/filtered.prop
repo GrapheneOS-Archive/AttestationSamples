@@ -14,6 +14,8 @@
 [ro.boot.hardware]: [crosshatch]
 [ro.boot.hardware.platform]: [sdm845]
 [ro.boot.keymaster]: [1]
+[ro.boot.product.hardware.sku]: [G013C]
+[ro.boot.revision]: [MP1.0]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [4b6d8aaf271db5697f7b58e0f940391676196577f11f8ec46bd41d92392db08b]

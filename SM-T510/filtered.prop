@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [T510XXU1ASC7]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos7885]
+[ro.boot.revision]: [4]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [5a9bc064b864bf3239769320d6cc829ab7cc0378569844c77665ed94bdbee7cd]

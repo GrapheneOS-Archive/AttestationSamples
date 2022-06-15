@@ -11,6 +11,7 @@
 [ro.boot.bootloader]: [T835DXU3BSG4]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [7]
 [ro.boot.verifiedbootstate]: [green]
 [ro.bootimage.build.date]: [Mon Jul 29 17:03:06 KST 2019]
 [ro.bootimage.build.date.utc]: [1564387386]

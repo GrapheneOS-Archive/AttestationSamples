@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [N960USQS1ARH6]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [11]
 [ro.boot.verifiedbootstate]: [green]
 [ro.boot_recovery]: [0]
 [ro.bootimage.build.date]: [Tue Aug 28 11:31:31 KST 2018]

@@ -11,6 +11,7 @@
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [cv7as]
 [ro.boot.keymaster]: [1]
+[ro.boot.product.hardware.sku]: [f]
 [ro.boot.vbmeta.avb_version]: [1.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [ffe31df72773bccba0f989e501a4204ee9192d0c2cf2afee21353fb4d5754b1f]

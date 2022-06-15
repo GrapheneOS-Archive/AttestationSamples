@@ -8,6 +8,7 @@
 [ro.boot.baseband]: [MTK]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [mt6755]
+[ro.boot.product.hardware.sku]: [nfc]
 [ro.boot.verifiedbootstate]: [green]
 [ro.boot.veritymode]: [enforcing]
 [ro.bootimage.build.date]: [Thu Jun 6 21:08:54 CST 2019]

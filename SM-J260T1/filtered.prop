@@ -6,6 +6,7 @@
 [ro.boot.bootloader]: [J260T1UVS3ASG1]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [samsungexynos7570]
+[ro.boot.revision]: [3]
 [ro.boot.verifiedbootstate]: [green]
 [ro.boot_recovery]: [unknown]
 [ro.bootimage.build.date]: [Wed Jul 3 16:54:58 KST 2019]

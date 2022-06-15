@@ -12,6 +12,7 @@
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [taimen]
 [ro.boot.keymaster]: [1]
+[ro.boot.revision]: [rev_10]
 [ro.boot.vbmeta.avb_version]: [1.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [2e4232d74901c5c358544599280d7cb9b8ff631070e7ceda29fe2f9e811419df]

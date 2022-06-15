@@ -9,6 +9,7 @@
 [ro.boot.bootloader]: [G965U1UEU3CSA8]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [qcom]
+[ro.boot.revision]: [14]
 [ro.boot.verifiedbootstate]: [green]
 [ro.bootimage.build.date]: [Tue Jan 15 19:31:13 KST 2019]
 [ro.bootimage.build.date.utc]: [1547548273]

@@ -15,6 +15,7 @@
 [ro.boot.avb_version]: [0.0]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [kirin970]
+[ro.boot.product.hardware.sku]: [CLT-L29]
 [ro.boot.vbmeta.avb_version]: [0.0]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [22335876ecb540eded978be291cc91e546c41fc6b18c22ab3c268531788a8ce2]

@@ -8,6 +8,7 @@
 [ro.boot.bootloader]: [N970FXXU1ASHE]
 [ro.boot.flash.locked]: [1]
 [ro.boot.hardware]: [exynos9825]
+[ro.boot.revision]: [23]
 [ro.boot.vbmeta.avb_version]: [1.1]
 [ro.boot.vbmeta.device_state]: [locked]
 [ro.boot.vbmeta.digest]: [fa760bcbad8a784b7d72b9763d9caf94d64ae5d4b8d76d945de4a5803953d296]
